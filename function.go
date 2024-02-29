@@ -57,6 +57,7 @@ func main() {
 	fmt.Println("Welcome to Function!")
 
 	// This is Anonymous function
+
 	a := func(x, y int) (r int) {
 		r = x * y
 		return
